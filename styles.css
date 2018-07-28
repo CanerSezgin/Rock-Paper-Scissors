@@ -1,0 +1,28 @@
+body{
+    margin-top: 2em;
+}
+
+#buttons{
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+button{
+    width: 8em;
+}
+
+.gameArea{
+    height: 140px;
+}
+
+.scores{
+    margin-top: 0.6em;
+}
+
+#footerText{
+  color: white
+}
+
+a {
+	text-decoration: none !important;
+}
