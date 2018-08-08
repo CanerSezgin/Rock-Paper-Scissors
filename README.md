@@ -1,6 +1,6 @@
 # JS_P1_Rock-Paper-Scissors
 
-See The Project in Browser : https://casedo.github.io/Rock-Paper-Scissors/ 
+See The Project in Browser : https://CanerSezgin.github.io/Rock-Paper-Scissors/ 
 
 <b>[04/27/2018]</b>
 <s> I could not design properly frontpage. I had some issues with CSS layout. And unfortunately the program does not be seen properly on mobile as well because i had to use static position in the layout </s> 
